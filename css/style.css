@@ -1,0 +1,40 @@
+  
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-bottom: 150px;
+}
+
+header{
+    background-color: rgb(63, 63, 63);
+    clear: right;
+    height: 130px;
+    text-align: center;
+}
+
+header img{
+    float: left;
+    padding-left: 500px;
+    padding-top: 30px;
+}
+
+nav{
+    color: #ddd;
+    clear: right;
+    width: 70%;
+    position: relative;
+}
+
+nav li{
+    padding: 60px;
+    display: inline-block;
+    margin: auto;
+
+}
+
+.lrgimage{
+    display: block;
+    clear: both;
+}
