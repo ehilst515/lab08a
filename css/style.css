@@ -31,4 +31,10 @@ nav li{
     padding: 60px;
     display: inline-block;
     margin: auto;
+
+}
+
+.lrgimage{
+    display: block;
+    clear: both;
 }
