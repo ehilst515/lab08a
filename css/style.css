@@ -34,6 +34,12 @@ nav li{
 
 }
 
+img{
+    margin: 30px;
+    display: inline-block;
+}
+
+
 .lrgimage{
     display: block;
     clear: both;
